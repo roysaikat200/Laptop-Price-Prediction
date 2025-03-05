@@ -1,0 +1,51 @@
+LinearRegression:
+r2_score = 0.8073
+mae = 0.2102
+
+Ridge Regression:
+r2_score = 0.8127
+mae = 0.2093
+
+Lasso Regression:
+r2_score = 0.8072
+mae = 0.2111
+
+KNN Regression:
+r2_score = 0.8045
+mae = 0.1991
+
+Decision Tree Regression:
+r2_score = 0.7806
+mae = 0.2085
+
+Support Vector Regression (SVR):
+r2_score = 0.6111
+mae = 0.2959
+
+Random Forest Regressor:
+r2_score = 0.8857
+mae = 0.1565
+
+Extra Trees Regressor:
+r2_score = 0.8687
+mae = 0.1599
+
+AdaBoost Regressor:
+r2_score = 0.7996
+mae = 0.2271
+
+Gradient Boosting Regressor:
+r2_score = 0.8672
+mae = 0.1754
+
+XGBoost Regressor:
+r2_score = 0.8881
+mae = 0.1545
+
+Voting Regressor:
+r2_score = 0.8654
+mae = 0.1771
+
+Stacking Regressor:
+r2_score = 0.8867
+mae = 0.1600
